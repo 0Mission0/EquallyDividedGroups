@@ -3,7 +3,10 @@
 同時計算出需花多少時間 (需小於1分鐘;最佳化可達1 Sec)
 答案1025113。
 
-Given a sequence 1~24 and divide them into 3 groups, how many combination can be found with equal size and sum of subset?
+Given a sequence 1~24 and divide them into 3 groups. 
+
+How many combination can be found with equal size and sum of subset?
+
 The answer is 1025113.
 
 Basic Version is an easier to read version but not optimized.

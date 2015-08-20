@@ -9,4 +9,4 @@ The answer is 1025113.
 
 Basic Version is an easier to read version but not optimized.
 
-Master Version is optimized with speed up.
+Optimized Version is optimized with speed up.
